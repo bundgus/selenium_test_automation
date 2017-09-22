@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/
+log/2017-09-21T23-04-18.025_test_launch_meta_shopping_report.png
+log/2017-09-21T23-05-28.715_test_launch_meta_shopping_report.png
